@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libs.a  CMakeFiles/s.dir/s1.cc.o CMakeFiles/s.dir/s2.cc.o CMakeFiles/s.dir/s3.cc.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libs.a
