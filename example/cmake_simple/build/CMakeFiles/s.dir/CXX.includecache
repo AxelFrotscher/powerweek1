@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/axel/powerweek/powerfork/powerweek1/example/cmake_simple/s1.cc
+
+/Users/axel/powerweek/powerfork/powerweek1/example/cmake_simple/s2.cc
+
+/Users/axel/powerweek/powerfork/powerweek1/example/cmake_simple/s3.cc
+
